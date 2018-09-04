@@ -16,3 +16,5 @@ class Dog
 end
 
 mutt = Dog.new("Mutt")
+
+mutt.breed
