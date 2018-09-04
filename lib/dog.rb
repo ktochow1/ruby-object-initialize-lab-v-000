@@ -15,3 +15,4 @@ class Dog
   
 end
 
+mutt = Dog.new("Mutt")
